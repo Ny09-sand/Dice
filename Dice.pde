@@ -6,9 +6,9 @@ void draw(){
   fill(255,255,0); 
   if ( mousePressed==true) { 
     background(50,50,50); 
+    bobpow2.erase(); 
     bobpow2.ruer(); 
     bobpow2.roll();
-    bobpow2.erase(); 
   }
 }
 void mousePressed(){ 
