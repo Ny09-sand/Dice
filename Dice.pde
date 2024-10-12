@@ -3,14 +3,14 @@ void setup(){
   size(400,400); 
 } 
 void draw(){ 
-  mousePressed(); 
+
 } 
 void mousePressed(){ 
   background(50,50,50); 
   fill(255,255,0); 
+  bobpow2.erase();
   bobpow2.ruer();
   bobpow2.roll();
-  bobpow2.erase();
 } 
 
 //lose it lose it why is github not working let me post my website so i can got sleep please please please PLEASEE IM GOING TO WAKE UP FEELING TERRRIBLE CAN I GET SOME REST???/
