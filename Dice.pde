@@ -1,6 +1,8 @@
  Dice bobpow2= new Dice(10,10);
 void setup(){ 
   size(400,400); 
+  background(50,50,50); 
+  fill(255,255,0);
   bobpow2.roll(); 
   bobpow2.ruer(); 
   bobpow2.erase();
