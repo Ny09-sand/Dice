@@ -17,7 +17,7 @@ void mousePressed(){
   bobpow2.roll();
   bobpow2.erase();
 } 
-
+//lose it lose it why is github not working let me post my website so i can got sleep please please please PLEASEE IM GOING TO WAKE UP FEELING TERRRIBLE CAN I GET SOME REST???/
   
  
 class Dice{
