@@ -72,7 +72,7 @@ class Dice{
           } 
           sumof+=3; 
         } else if (randomizer==2){ 
-          for (int i=0;i <= 1; i++) { 
+          for (int i=0;i <= 0; i++) { 
             for ( int t=0; t<=1;t++){
               ellipse(10+(i*5)+(x*15),50+(t*4)+(y*15),gh,gh);
             }
