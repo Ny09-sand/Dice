@@ -80,7 +80,7 @@ class Dice{
           sumof+=2; 
         } else { 
           for (int q=0;q <= 0; q++) { 
-            for ( int o=0; o<=0;o++){
+            for ( int o=0; o<=1;o++){
               ellipse(10+(q*5)+(x*15),50+(o*4)+(y*15),gh,gh);
             }
           }
